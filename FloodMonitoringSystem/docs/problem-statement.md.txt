@@ -1,0 +1,7 @@
+Floods pose a major threat to infrastructure and human life. Dams require continuous monitoring to detect overflow conditions early. A system is needed to:
+
+1. Measure water levels continuously.
+
+2. Trigger alerts when safe limits are crossed.
+
+3. Communicate to authorities in real time using cloud infrastructure.

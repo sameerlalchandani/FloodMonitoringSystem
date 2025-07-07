@@ -1,0 +1,1 @@
+To design and simulate a real-time flood monitoring system that continuously monitors water flow levels at a dam using sensors, and automatically triggers cloud-based alerts to authorities when water levels exceed a predefined critical threshold, thereby enabling timely preventive action and disaster mitigation.
